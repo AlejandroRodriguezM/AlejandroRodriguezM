@@ -7,12 +7,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrorodriguezm" alt="alejandrorodriguezm" /></a> </p>
 
 - 🔭 I’m currently studying on **Advanced degree in web development**
+- 🔭 Actualmente estoy estudiando **Grado superior de desarrollo de aplicaciones web**
 
 - 🌱 I’m currently learning **CSS, HTML5, JavaScript, PHP, Python, MySql**
+- 🌱 Estoy aprendiendo actualmente **CSS, HTML5, JavaScript, PHP, Python, MySql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlejandroRodriguezM?tab=repositories](https://github.com/AlejandroRodriguezM?tab=repositories)
+- 👨‍💻 Todos mis proyectos estan aqui [https://github.com/AlejandroRodriguezM?tab=repositories](https://github.com/AlejandroRodriguezM?tab=repositories)
 
 - 📫 How to reach me **aloxfloyd@gmail.com**
+- 📫 Puedes contactarme aquí **aloxfloyd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
