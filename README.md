@@ -9,8 +9,8 @@
 - 🔭 I’m currently studying on **Advanced degree in web development**
 - 🔭 Actualmente estoy estudiando **Grado superior de desarrollo de aplicaciones web**
 
-- 🌱 I’m currently learning **CSS, HTML5, JavaScript, PHP, Python, MySql**
-- 🌱 Estoy aprendiendo actualmente **CSS, HTML5, JavaScript, PHP, Python, MySql**
+- 🌱 I’m currently learning **CSS, HTML5, Java, JavaScript, PHP, Python, MySql**
+- 🌱 Estoy aprendiendo actualmente **CSS, HTML5, Java, JavaScript, PHP, Python, MySql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlejandroRodriguezM?tab=repositories](https://github.com/AlejandroRodriguezM?tab=repositories)
 - 👨‍💻 Todos mis proyectos estan aqui [https://github.com/AlejandroRodriguezM?tab=repositories](https://github.com/AlejandroRodriguezM?tab=repositories)
