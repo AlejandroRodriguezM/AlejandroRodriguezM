@@ -15,8 +15,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AlejandroRodriguezM?tab=repositories](https://github.com/AlejandroRodriguezM?tab=repositories)
 - 👨‍💻 Todos mis proyectos estan aqui [https://github.com/AlejandroRodriguezM?tab=repositories](https://github.com/AlejandroRodriguezM?tab=repositories)
 
-- 📫 How to reach me **aloxfloyd@gmail.com**
-- 📫 Puedes contactarme aquí **aloxfloyd@gmail.com**
+- 📫 How to reach me **alejandroclases25@gmail.com**
+- 📫 Puedes contactarme aquí **alejandroclases25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
