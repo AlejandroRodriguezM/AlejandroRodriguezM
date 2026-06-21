@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrorodriguezm&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrorodriguezm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrorodriguezm" alt="alejandrorodriguezm" /></a> </p>
-
 - 🔭 Actualmente estoy estudiando **Grado superior de desarrollo de aplicaciones web**
 
 - I’m currently learning **CSS, HTML5, Java, JavaScript, PHP, Python, MySql, PL/SQL, Laravel**
