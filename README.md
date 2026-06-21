@@ -2,8 +2,6 @@
 <h1 align="center">Hola 👋, Soy Alejandro Rodriguez</h1>
 <h3 align="center">Estudiante de grado superior Desarollo Web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrorodriguezm&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrorodriguezm" /> </p>
-
 - 🔭 Actualmente estoy estudiando **Grado superior de desarrollo de aplicaciones web**
 
 - I’m currently learning **CSS, HTML5, Java, JavaScript, PHP, Python, MySql, PL/SQL, Laravel**
